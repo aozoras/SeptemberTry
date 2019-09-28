@@ -38,7 +38,7 @@
 	echo "<br>";
 	thirdHighest([1,2]);
 	echo "<br>";
-	thirdHighest([107,1,-4,’a’,’true’,0, -77]);
+	thirdHighest([107,1,-4,'a','true',0, -77]);
 	echo "<br>";
 	
 ?>
