@@ -86,7 +86,5 @@
 	$myBio = json_encode($Bio);
 	
 	echo $myBio;
-	
-	//{"name":"Saidah Manshuroh","age":22}
 
 ?>
